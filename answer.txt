@@ -1,0 +1,4 @@
+picture file
+https://w251.s3.amazonaws.com/cam.jpg
+
+QoS is 0
